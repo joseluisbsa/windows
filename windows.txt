@@ -1,0 +1,6 @@
+- No ping TTL time to live: toda maquina Windows responde 128
+- Tracert 8.8.8.8 (rotas)
+- Netstat –ano (estado de todas as conexões) (0.0.0.0 localhost) (porta 0 significa qualqer porta)
+- Tasklist /svc (mostra processos)
+- Taskkill /pid 'PID'
+- Netstat –ano | findstr ":21" //iis ativo?
